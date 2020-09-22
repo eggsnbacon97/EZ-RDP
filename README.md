@@ -11,3 +11,5 @@ Simple VBA scripts for managing a multitude of RDP clients.
 
 ## Other Considerations
 The image file is an example of how I have my data set up. It has been blurred for the sake of privacy - but all you need is the headers to recreate it with your data.
+
+![alt text](https://github.com/eggsnbacon97/EZ-RDP/blob/master/ez%20rdp%20example.png)
