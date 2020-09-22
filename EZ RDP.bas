@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module1"
 Option Compare Text
 Sub Remote_Client_Server()
 RDPWindow = Shell("C:\windows\system32\mstsc.exe /v:" & Range("B3"), 1)
