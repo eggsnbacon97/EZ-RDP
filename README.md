@@ -7,7 +7,7 @@ Simple VBA scripts for managing a multitude of RDP clients.
 - Prints your search result in a message box and in the empty "Machine Name" box.
 
 ## What does it not do?
-- Handle search errors very well. If you do not enter a value for Room #, or enter something other than an integer, you will get a type-mismatch error.
+- Work well with Mac/Linux environments, this is for RDP!
 
 ## Other Considerations
 The image file is an example of how I have my data set up. It has been blurred for the sake of privacy - but all you need is the headers to recreate it with your data.
